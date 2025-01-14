@@ -115,42 +115,43 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 ---
 ## Developers
 <table>
- <tr align="center">
+  <tr align="center">
+    <td>
+      <strong>Mr. Shubham Parkhedkar</strong>
+      <p align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS072GHoLgEqAsewUF91RfD8LaNuUKaUa21jw&s" height="120" alt="Shubham Parkhedkar">
+      </p>
+      <p align="center">
+        <a href="https://github.com/mbig-in" target="_blank">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36" alt="GitHub"/>
+        </a>
+        <a href="https://in.linkedin.com/in/shubham-parkhedkar/" target="_blank">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-
-<td>
- Mr. Shubham Parkhedkar 
-
-<p align="center">
- <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS072GHoLgEqAsewUF91RfD8LaNuUKaUa21jw&s"  height="120"
-alt="Shubham Parkhedkar">
-</p>
-<p align="center">
-  <a href = "https://github.com/mbig-in" target="_blank"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-  <a href = "https://in.linkedin.com/in/shubham-parkhedkar/" target="_blank">
-  <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-  </a>
- </p>
-</td>
----
 <table>
- <tr align="center">
+  <tr align="center">
+    <td>
+      <strong>Shruti Waghaye</strong>
+      <p align="center">
+        <img src="https://abobo.in/wp-content/uploads/2024/09/shruti-waghaye.jpg" height="120" alt="Shruti Waghaye">
+      </p>
+      <p align="center">
+        <a href="https://www.instagram.com/shrutiwaghaye?igsh=MTI0MHBjcHkyeHA3dw==" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="36" height="36" alt="Instagram"/>
+        </a>
+        <a href="https://in.linkedin.com/in/shruti-waghaye-5077012a5/" target="_blank">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
-<td>
- Shruti Waghaye 
-
-<p align="center">
- <img src = "https://abobo.in/wp-content/uploads/2024/09/shruti-waghaye.jpg"  height="120"
-alt="shruti Waghaye">
-</p>
-<p align="center">
-  <a href = "https://www.instagram.com/shrutiwaghaye?igsh=MTI0MHBjcHkyeHA3dw==/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="36" height="36" alt="Instagram"/>
-</a>
-  <a href = "https://in.linkedin.com/in/shruti-waghaye-5077012a5/" target="_blank">
-  <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-  </a>
- </p>
-</td>
 ---
 # AI-Interview-Master
