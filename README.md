@@ -132,13 +132,8 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
         </a>
       </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr align="center">
-    <td>
+    <br>
+     <td>
       <strong>Shruti Waghaye</strong>
       <p align="center">
         <img src="https://abobo.in/wp-content/uploads/2024/09/shruti-waghaye.jpg" height="120" alt="Shruti Waghaye">
@@ -153,8 +148,8 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
       </p>
     </td>
   </tr>
+    </td>
+  </tr>
 </table>
-
-
 ---
 # AI-Interview-Master
