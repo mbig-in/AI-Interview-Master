@@ -114,7 +114,7 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 
 ---
 ## Developers
-  <table align="center">
+  <table style="text-align: left;">
     <tr align="center">
       <td>
         <strong>Mr. Shubham Parkhedkar</strong>
