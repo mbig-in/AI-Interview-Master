@@ -133,7 +133,7 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
           </a>
         </p>
       </td>
-    
+    <table align="center">
       <td>
         <strong> Shruti Waghaye </strong>
         <p align="center">
