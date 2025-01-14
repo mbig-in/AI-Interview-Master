@@ -114,65 +114,6 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 
 ---
 ## Developers
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Animated Table</title>
-  <style>
-    /* Animation for fading in the text */
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-
-    /* Animation for image zoom */
-    @keyframes zoomIn {
-      from {
-        transform: scale(0.8);
-      }
-      to {
-        transform: scale(1);
-      }
-    }
-
-    /* Add fadeIn animation to text */
-    strong {
-      animation: fadeIn 1.5s ease-in;
-    }
-
-    /* Add zoomIn animation to images */
-    img {
-      animation: zoomIn 1.5s ease-in-out;
-    }
-
-    /* Add a hover effect to images */
-    img:hover {
-      transform: scale(1.1);
-      transition: transform 0.3s ease;
-    }
-
-    /* Center the table */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-
-    td {
-      padding: 20px;
-    }
-
-    p {
-      margin: 0;
-    }
-  </style>
-</head>
-<body>
   <table align="center">
     <tr align="center">
       <td>
@@ -192,9 +133,9 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
           </a>
         </p>
       </td>
-
+    <tr align="center">
       <td>
-        <strong>Shruti Waghaye</strong>
+        <strong> Shruti Waghaye </strong>
         <p align="center">
           <img src="https://abobo.in/wp-content/uploads/2024/09/shruti-waghaye.jpg" height="120" alt="Shruti Waghaye">
         </p>
@@ -209,8 +150,6 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
       </td>
     </tr>
   </table>
-</body>
-</html>
 
 
 ---
