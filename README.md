@@ -142,7 +142,7 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
       </p>
       <p align="center">
         <a href="https://www.instagram.com/shrutiwaghaye?igsh=MTI0MHBjcHkyeHA3dw==" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="36" height="36" alt="Instagram"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/747/747976.png" width="36" height="36" alt="Instagram"/>
         </a>
         <a href="https://in.linkedin.com/in/shruti-waghaye-5077012a5/" target="_blank">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
