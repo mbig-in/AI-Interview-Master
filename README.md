@@ -114,42 +114,104 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 
 ---
 ## Developers
-<table>
-  <tr align="center">
-    <td>
-      <strong>Mr. Shubham Parkhedkar</strong>
-      <p align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS072GHoLgEqAsewUF91RfD8LaNuUKaUa21jw&s" height="120" alt="Shubham Parkhedkar">
-      </p>
-      <p align="center">
-        <a href="https://www.instagram.com/mbig.in/" target="_blank">
-          <img src="https://img.icons8.com/ios11/512/228BE6/instagram-circle.png" width="36" height="36" alt="Instagram"/>
-        </a>
-        <a href="https://github.com/mbig-in" target="_blank">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36" alt="GitHub"/>
-        </a>
-        <a href="https://in.linkedin.com/in/shubham-parkhedkar/" target="_blank">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
-        </a>
-      </p>
-    <br>
-     <td>
-      <strong>Shruti Waghaye</strong>
-      <p align="center">
-        <img src="https://abobo.in/wp-content/uploads/2024/09/shruti-waghaye.jpg" height="120" alt="Shruti Waghaye">
-      </p>
-      <p align="center">
-        <a href="https://www.instagram.com/shrutiwaghaye?igsh=MTI0MHBjcHkyeHA3dw==" target="_blank">
-          <img src="https://img.icons8.com/ios11/512/228BE6/instagram-circle.png" width="36" height="36" alt="Instagram"/>
-        </a>
-        <a href="https://in.linkedin.com/in/shruti-waghaye-5077012a5/" target="_blank">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-    </td>
-  </tr>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Table</title>
+  <style>
+    /* Animation for fading in the text */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
+    /* Animation for image zoom */
+    @keyframes zoomIn {
+      from {
+        transform: scale(0.8);
+      }
+      to {
+        transform: scale(1);
+      }
+    }
+
+    /* Add fadeIn animation to text */
+    strong {
+      animation: fadeIn 1.5s ease-in;
+    }
+
+    /* Add zoomIn animation to images */
+    img {
+      animation: zoomIn 1.5s ease-in-out;
+    }
+
+    /* Add a hover effect to images */
+    img:hover {
+      transform: scale(1.1);
+      transition: transform 0.3s ease;
+    }
+
+    /* Center the table */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    td {
+      padding: 20px;
+    }
+
+    p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <table align="center">
+    <tr align="center">
+      <td>
+        <strong>Mr. Shubham Parkhedkar</strong>
+        <p align="center">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS072GHoLgEqAsewUF91RfD8LaNuUKaUa21jw&s" height="120" alt="Shubham Parkhedkar">
+        </p>
+        <p align="center">
+          <a href="https://www.instagram.com/mbig.in/" target="_blank">
+            <img src="https://img.icons8.com/ios11/512/228BE6/instagram-circle.png" width="36" height="36" alt="Instagram"/>
+          </a>
+          <a href="https://github.com/mbig-in" target="_blank">
+            <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36" alt="GitHub"/>
+          </a>
+          <a href="https://in.linkedin.com/in/shubham-parkhedkar/" target="_blank">
+            <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+          </a>
+        </p>
+      </td>
+
+      <td>
+        <strong>Shruti Waghaye</strong>
+        <p align="center">
+          <img src="https://abobo.in/wp-content/uploads/2024/09/shruti-waghaye.jpg" height="120" alt="Shruti Waghaye">
+        </p>
+        <p align="center">
+          <a href="https://www.instagram.com/shrutiwaghaye?igsh=MTI0MHBjcHkyeHA3dw==" target="_blank">
+            <img src="https://img.icons8.com/ios11/512/228BE6/instagram-circle.png" width="36" height="36" alt="Instagram"/>
+          </a>
+          <a href="https://in.linkedin.com/in/shruti-waghaye-5077012a5/" target="_blank">
+            <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+
+
 ---
 # AI-Interview-Master
