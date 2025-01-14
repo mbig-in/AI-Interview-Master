@@ -133,37 +133,6 @@ alt="Shubham Parkhedkar">
 </a>
 </p>
 </td>
-
----
-
-<div>
-
-### Project Member ❤️
-
-<table>
- 	<tr>
- 		<td align="center">
- 			<a href="https://github.com/aryasoni98">
- 				<img src="https://avatars.githubusercontent.com/u/18515597?s=400&u=4ecfe979f461f79e86a9c7a26183c1327da5d2bc&v=4" width="100px" alt="" />
- 				<br /> <sub><b>Arya Soni</b></sub>
- 			</a>
- 				<br /> <a href="https://github.com/aryasoni98">
- 		   			Admin
- 	   		 </a>
- 		</td>
-		<td align="center">
- 			<a href="https://github.com/shubhigupta991">
- 				<img src="https://avatars.githubusercontent.com/u/58917829?s=400&u=a792b01ef12ba7f84049ee3382f256738dc0a0de&v=4" width="100px" alt="" />
- 				<br /> <sub><b>Shubhangi Gupta</b></sub>
- 			</a>
-				<br /><a href="https://github.com/shubhigupta991">
-					Member
- 	    	</a>
- 		</td>
-        </td>
- 	</tr>
-</table>
-
 ---
 
 ### Contributors 🌟
