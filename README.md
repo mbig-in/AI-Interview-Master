@@ -122,6 +122,9 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS072GHoLgEqAsewUF91RfD8LaNuUKaUa21jw&s" height="120" alt="Shubham Parkhedkar">
       </p>
       <p align="center">
+        <a href="https://www.instagram.com/mbig.in/" target="_blank">
+          <img src="https://img.icons8.com/ios11/512/228BE6/instagram-circle.png" width="36" height="36" alt="Instagram"/>
+        </a>
         <a href="https://github.com/mbig-in" target="_blank">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36" alt="GitHub"/>
         </a>
