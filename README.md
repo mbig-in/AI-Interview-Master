@@ -133,9 +133,9 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
           </a>
         </p>
       </td>
-    <table align="center">
+    <table style="text-align: left;">
       <td>
-        <strong> Shruti Waghaye </strong>
+        <strong>Miss. Shruti Waghaye </strong>
         <p align="center">
           <img src="https://abobo.in/wp-content/uploads/2024/09/shruti-waghaye.jpg" height="120" alt="Shruti Waghaye">
         </p>
